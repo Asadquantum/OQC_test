@@ -8,6 +8,6 @@ For the last part, I only provide the jupyter file.
 ## Solution format
 Solution jupyter notebooks are formatted as follows:
 
-1. Intuition for solution
-2. Algorithm for solution
-3. Python code for solution
+1. Intuition for solution,
+2. Algorithm for solution,
+3. Python code for solution.
