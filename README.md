@@ -10,6 +10,6 @@ Solution jupyter notebooks are formatted as follows:
 2. Algorithm for solution,
 3. Python code for solution.
 
-## Libraries required
+### Libraries required
 1. Numpy
 2. Random 
