@@ -6,7 +6,7 @@ For first 3 parts, I provide module files.
 For the last part, I only provide the jupyter file.
 
 ## Solution format
-Solution files are formatted as follows:
+Solution jupyter notebooks are formatted as follows:
 
 1. Intuition for solution
 2. Algorithm for solution
